@@ -1,1 +1,1 @@
-web: node monitor.js
+worker: node monitor.js
